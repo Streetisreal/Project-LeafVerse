@@ -11,7 +11,7 @@ thatpicoder (Developer)
 
 # Discord 💬
 
-https://discord.gg/yUsr5kge
+https://discord.gg/MAdjEUsHCh
 
 # Website
 
