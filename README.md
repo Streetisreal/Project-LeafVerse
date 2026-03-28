@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Streetisreal/Project-LeafVerse/refs/heads/main/e4e428c1e7e00a6d4ba3f0b3a97a1325.webp
+![Alt text]([https://github.com/username/repository/blob/main/images/screenshot.png?raw=true](https://raw.githubusercontent.com/Streetisreal/Project-LeafVerse/refs/heads/main/e4e428c1e7e00a6d4ba3f0b3a97a1325.webp))
 
 # Project-LeafVerse 🛜
 LeafVerse aims to be an open source replacement for Miiverse.
