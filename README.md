@@ -1,4 +1,4 @@
-![LeafVerse Logo](https://raw.githubusercontent.com/Streetisreal/Project-LeafVerse/refs/heads/main/e4e428c1e7e00a6d4ba3f0b3a97a1325-round-corners%20(1)%20(1)-round-corners.png)
+![LeafVerse Logo](https://raw.githubusercontent.com/Streetisreal/Project-LeafVerse/refs/heads/main/Images/LeafVerse_LogoMain2.png)
 
 # Project-LeafVerse 🛜
 LeafVerse aims to be an open source replacement for Miiverse.
