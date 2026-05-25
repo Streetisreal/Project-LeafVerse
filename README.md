@@ -3,11 +3,13 @@
 # Project-LeafVerse 🛜
 LeafVerse aims to be an open source replacement for Miiverse.
 
-The LeafVerse Dev Team: 
+The LeafVerse Dev Team and LinkMii Dev Team: 
 
 Street (Founder and lead devloper of project StreetVerse)
 
 thatpicoder (Developer)
+
+Cooler01 (Developer)
 
 ----- 
 
