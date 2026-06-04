@@ -9,8 +9,6 @@ Street (Founder and lead devloper of project StreetVerse)
 
 thatpicoder (Developer)
 
-Cooler01 (Developer)
-
 ----- 
 
 # Discord 💬
