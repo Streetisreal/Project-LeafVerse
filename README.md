@@ -29,6 +29,6 @@ https://archive.org/details/new-project_202603
 
 Thank you, Internet Archive!
 
-# Be respondible 
+# Be responsible 
 
-By using this service, you argee that we are NOT respondible for any damages or actions you did. This is on you.
+By using this service, you argee that we are NOT responsible for any damages or actions you did. This is on you.
