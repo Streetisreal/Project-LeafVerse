@@ -31,4 +31,4 @@ Thank you, Internet Archive!
 
 # Be responsible 
 
-By using this service, you argee that we are NOT responsible for any damages or actions you did. This is on you.
+By using this service, you agree that we are NOT responsible for any damages or actions you did. This is on you.
